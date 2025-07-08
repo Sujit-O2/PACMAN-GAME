@@ -1,7 +1,7 @@
 
 ---
 
-### 👻 2. PACMAN (Swing Clone)
+### 👻  PACMAN (Swing Clone)
 
 ```markdown
 # 👻 PACMAN Clone (Java Swing)
